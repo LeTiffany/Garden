@@ -7,8 +7,6 @@
 * a method to get the types specific to the class.
 */
 
-package com.gradescope.garden;
-
 public class Flower extends Plant {
 	
 	public static final String[] types = {"iris", "lily", "rose", "daisy", "tulip", "sunflower"};
