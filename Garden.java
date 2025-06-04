@@ -7,8 +7,6 @@
 * print a visual representation and grow and clear plants in the garden.
 */
 
-package com.gradescope.garden;
-
 public class Garden {
 
 	private int rows;
