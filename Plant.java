@@ -7,8 +7,6 @@
 * of a plant, clear a plot and grow a plant.
 */
 
-package com.gradescope.garden;
-
 public class Plant {
 
 	protected int row;
