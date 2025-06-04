@@ -7,8 +7,6 @@
 * and executes those commands.
 */
 
-package com.gradescope.garden;
-
 import java.util.Scanner;
 import java.io.File;
 import java.io.FileNotFoundException;
