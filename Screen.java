@@ -6,8 +6,6 @@
 * place a plant in the display and get the string representation at a specified row.
 */
 
-package com.gradescope.garden;
-
 public class Screen {
 
 	private char[][] cells;
